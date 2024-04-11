@@ -73,6 +73,10 @@
         font-weight: bold;
     }
 
+    #nav-list a:hover {
+        background: #F6FEFF;
+    }
+
     #nav-list a span {
         font-size: 1.8em;
     }
